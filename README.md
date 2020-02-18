@@ -1,3 +1,6 @@
+# USE AT OWN RISK 
+# DON'T DO ANYTHING ILLEGAL
+
 # go-portscanner
 Port scanner written in Go
 
