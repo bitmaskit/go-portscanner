@@ -1,13 +1,15 @@
-# USE AT OWN RISK 
-# DON'T DO ANYTHING ILLEGAL
+![](https://counter.gofiber.io/badge/bitmaskit/go-portscanner?unique=true)
 
-# go-portscanner
+## USE AT OWN RISK 
+## DON'T DO ANYTHING ILLEGAL
+
+## go-portscanner
 Port scanner written in Go
 
-## Requirements
+### Requirements
 Installed Go
 
-## Usage
+### Usage
 
 ```shell script
 $ git clone git@github.com:bitmaskit/go-portscanner
